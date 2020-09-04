@@ -1,2 +1,1 @@
-http://dlied6.qq.com/invc/xfspeed/qqpcmgr/versetup/portal/portal/PCMgr_Setup_13_6_20677_301.exe
-http://dlied6.qq.com/invc/xfspeed/qqpcmgr/versetup/portal/portal/PCMgr_Setup_13_6_20677_301.exe
+https://github.com/mozilla-mobile/fenix/releases/download/v79.0.5/firefox_v79.0.5_arm64.apk
