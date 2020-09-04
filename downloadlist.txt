@@ -1,1 +1,1 @@
-https://github.com/mozilla-mobile/fenix/releases/download/v79.0.5/firefox_v79.0.5_arm64.apk
+https://github.com/xxf098/shadowsocksr-v2ray-android/releases/download/v3.8.1/ssrray-release-3.8.1.2.apk
