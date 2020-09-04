@@ -1,1 +1,8 @@
-https://github.com/xxf098/shadowsocksr-v2ray-android/releases/download/v3.8.1/ssrray-release-3.8.1.2.apk
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-darwin-ios-arm.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-darwin-osx-amd64.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-386.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-amd64.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-armv5.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-mips64.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x64.zip
+https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x86.zip
