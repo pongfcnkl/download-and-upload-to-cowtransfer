@@ -1,2 +1,1 @@
-https://repo.jellyfin.org/releases/server/centos/stable/web/jellyfin-web-10.6.2-1.el7.noarch.rpm
-https://repo.jellyfin.org/releases/server/centos/stable/server/jellyfin-server-10.6.2-1.el7.x86_64.rpm
+http://dlied6.qq.com/invc/xfspeed/qqpcmgr/versetup/portal/portal/PCMgr_Setup_13_6_20677_301.exe
